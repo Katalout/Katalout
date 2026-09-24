@@ -12,10 +12,11 @@
 
 - 💬 Ask me about ✨ my projects ✨ and learning journey 📖.
 
-- 👯 I am currently looking to collaborate as junior dev, and to continue learning in a professional setting to become a 🌱 full-stack developer.
+<h3 align="left">👯 Let's work together</h3>
 
-- ✉ Contact me: katalin.jaszberenyi@gmail.com.
+- I am currently looking to collaborate as junior dev, and to continue learning in a professional setting to become a 🌱 full-stack developer.
 
+- ✉ Contact me: katalin.jaszberenyi@gmail.com
 <!--
 **Katalout/Katalout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
